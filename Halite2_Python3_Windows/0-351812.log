@@ -1,0 +1,36 @@
+[
+ {
+  "Error": {
+   "Message": "ERRORED! Got Exception (if any): ERROR: Bot #0: Invalid thrust 14 for ship 0 (maximum is 7). (at character 11.)\nInput received from bot:\nt 0 14 114t 1 14 113t 2 14 86\n          ^; Response received (if any): t 0 14 114t 1 14 113t 2 14 86",
+   "Turn": 1
+  },
+  "Frames": [
+   {
+    "Time": 181,
+    "Turn": 0
+   },
+   {
+    "Time": 10
+   }
+  ],
+  "PlayerID": 0,
+  "PlayerName": "Settler"
+ },
+ {
+  "Error": {
+   "Message": "ERRORED! Got Exception (if any): ERROR: Bot #1: Invalid thrust 14 for ship 3 (maximum is 7). (at character 11.)\nInput received from bot:\nt 3 14 284t 4 14 286t 5 14 283\n          ^; Response received (if any): t 3 14 284t 4 14 286t 5 14 283",
+   "Turn": 1
+  },
+  "Frames": [
+   {
+    "Time": 179,
+    "Turn": 0
+   },
+   {
+    "Time": 0
+   }
+  ],
+  "PlayerID": 1,
+  "PlayerName": "Settler"
+ }
+]
